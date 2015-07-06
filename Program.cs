@@ -10,6 +10,9 @@ namespace Project1ConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Paul");
+            Console.WriteLine("Hello Charles");
+
         }
     }
 }
